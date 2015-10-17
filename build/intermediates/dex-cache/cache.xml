@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ali/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/ali/Desktop/CMPUT301/lonelyTwitter/app/build/intermediates/pre-dexed/debug/gson-2.4-b33072f17e3c6363aee3ebfd95357e37abf00e47.jar" />
+    </item>
+
+</items>
